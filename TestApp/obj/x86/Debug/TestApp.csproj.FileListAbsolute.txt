@@ -28,3 +28,5 @@ C:\Users\Joachim\Desktop\SharpUpdate-master\SharpUpdate-master\TestApp\obj\x86\D
 C:\Users\Joachim\Desktop\SharpUpdate-master\SharpUpdate-master\TestApp\obj\x86\Debug\TestApp.Form1.resources
 C:\Users\Joachim\Desktop\SharpUpdate-master\SharpUpdate-master\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
 C:\Users\Joachim\Desktop\SharpUpdate-master\SharpUpdate-master\TestApp\obj\x86\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\Joachim\Documents\Visual Studio 2015\Projects\SharpUpdater\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\Joachim\Documents\Visual Studio 2015\Projects\SharpUpdater\TestApp\obj\x86\Debug\TestApp.pdb
